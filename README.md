@@ -1,4 +1,4 @@
-# docker-iojs test server
+# docker test server
 
 Builds a Docker Jenkins Server with Docker baked in (using dind).
 
